@@ -2,3 +2,7 @@ asgiref==3.8.1
 Django==5.0.8
 sqlparse==0.5.1
 python-decouple==3.8
+python-decouple==3.8
+django-taggit==5.0.1
+Markdown==3.6
+psycopg==3.1.18
